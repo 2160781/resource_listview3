@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+    android:id="@+id/mQRCODE"
+
+android:title="@string/menu_QRCODE"
+android:orderInCategory="100"
+    ></item>
+
+    <item
+        android:id="@+id/mVOZ"
+
+        android:title="@string/menu_VOZ"
+        android:orderInCategory="200"
+        ></item>
+
+
+    <item
+        android:id="@+id/mTarefas"
+
+        android:title="@string/menu_Tareas"
+        android:orderInCategory="300"
+        ></item>
+
+    <item
+        android:id="@+id/mRepaar"
+
+        android:title="@string/menu_Mantenimiento"
+        android:orderInCategory="300"
+        ></item>
+
+    <item
+        android:id="@+id/mMantenimiento"
+
+        android:title="@string/menu_Reparar"
+        android:orderInCategory="300"
+        ></item>
+
+
+</menu>

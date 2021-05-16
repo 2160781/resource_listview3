@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">android_Resource</string>
+    <string name="menu_QRCODE">QRCODE</string>
+    <string name="menu_VOZ">VOZ</string>
+    <string name="menu_Tareas">Tareas</string>
+
+    <string name="menu_Mantenimiento">Mantenimiento</string>
+    <string name="menu_Reparar">Reparar</string>
+
+</resources>
